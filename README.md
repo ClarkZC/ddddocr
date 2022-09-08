@@ -29,10 +29,6 @@ print(res)
 
 ```
 
-# 捐赠 （如果项目有帮助到您，可以选择捐赠一些费用用于ddddocr的后续版本维护，本项目长期维护）
-
- ![Test](https://cdn.wenanzhe.com/img/zhifubao.jpg!/scale/30) 
- ![Test](https://cdn.wenanzhe.com/img/weixin.jpg!/scale/30)
 
 # 赞助合作商
 
